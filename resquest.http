@@ -1,4 +1,4 @@
-@server = https://pilar70983494-crispy-adventure-rjvv4qjvgxphpwp7-8080.preview.app.github.dev
+@server = https://ec3-espinoza.onrender.com
 @api = {{server}}/api/ec3
 
 ################ Categorias: ################
